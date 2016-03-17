@@ -4,6 +4,7 @@ SwimFitFixer
 Watch: Garmin Fenix 3 + HRM: Mio Link = can't store HR data in FIT file with Pool Swim mode.
 
 But you can use Open Water Swim mode with disabled GPS.
+
 Unfortunately, these files are not always loaded to the Garmin Connect.
 
 This script fixes the broken Garmin FIT file.
